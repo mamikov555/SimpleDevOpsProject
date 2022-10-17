@@ -33,8 +33,7 @@
 
    <h1> Thankyou, Happy Learning and stay tuned by Martin Mikov </h1>
    <h1> This is for test purpose. Testing Jenkins Automatically build. </h1>
-   <h1> This is for test purpose. Testing Jenkins Automatically build. </h1>
-   <h1> This is for test purpose. Testing Jenkins Automatically build. </h1>
+   
 
   
 </form>
